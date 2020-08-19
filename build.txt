@@ -1,0 +1,3 @@
+displayName = Useless Pickaxes
+author = Dokko
+version = 0.1
